@@ -1,0 +1,172 @@
+Exercise data
+
+Notes
+Weight in lb 
+3 sets each
+
+Key
+bp - bench press
+Lp - leg press
+Lpc - leg press calf
+Ibp - inclined bench press
+sc - seated curl
+Sbc - seated bar curl 
+Bc - bar curl
+Lfc - lean forward curl
+ts - triceps standing
+ssp - seated shoulder press
+spf - seated pectoral fly
+Lpf - laying pectoral fly 
+Apuo - assisted pull up overhand
+S - squat
+Isu - inclined sit up
+Lc - leg curl
+Le - leg extension
+Lla - leg lift abdominal
+Lte - laying tricep extension (bar)
+Ibb - inclined bench press barbell 
+Rd - rear deltoid
+Rc - row cardio, time in minutes
+R - row
+Sab - sitting abdominal
+C - calf
+Be - back extension
+
+Format:
+Date weight
+Type weight reps
+Type weight reps
+New line
+
+5/4 xxx
+bp 115 6
+
+5/9 xxx
+bp 115 8
+sc 35 8
+ts 37.5 8
+Ssp 25 10
+Spf 100 8
+Apuo 70 8
+S 75 8 
+Ibp 95 8
+Isu 0 8
+
+5/11 147
+Bp 115 8
+Sc 35 8
+Ts 37.5 8
+Lpf 25 8
+Isu 0 8
+Lp 190 8
+
+5/13 145
+Lc 70 8
+Bp 115 8
+Sc 35 8
+Lpf 25 8
+Lte 40 12
+Lfc 25 8
+Ibp 90 8
+Rd 55 8
+Spf 100 8
+Isu 0 8
+Bc 50 8
+
+5/14 147
+Le 50 8
+Lc 75 8
+Rc 0 5
+Sab 70 8
+Lp 210 8
+R 70 8
+Apuo 55 8
+Lla 0 12
+Isu 0 8
+Rd 40 8
+C 90 8
+
+5/15 148
+Rc 0 5
+Bp 115 8 
+R 75 8
+Bc 50 8
+Ts 37.5 8
+Isu 0 10
+Sbc 50 8
+Lpf 25 8
+Rd 40 8
+Spf 100 8
+Lla 0 12
+Lfc 25 8
+Ibp 95 6
+
+5/17 148.5
+Lp 230 8
+Le 55 8
+Rc 0 5
+Lc 75 8
+Ibp 95 8
+Sc 30 8
+Ts 35 10
+Bp 115 8
+R 75 8
+Rd 40 8
+Spf 100 8
+Bc 50 8
+Ssp 25 10
+C 70 16
+Lfc 25 8
+Isu 0 10
+Lla 0 12
+
+5/18 148
+Lp 230 8
+Le 55 8
+Lc 75 8
+R 75 8
+Bp 115 8
+Sc 30 8
+Ts 37.5 10
+Bc 50 8
+
+5/20 149
+Lp 235 8
+Le 55 8
+Lc 75 8
+Rc 0 5
+Bp 125 8
+Be 70 8
+R 75 8
+Isu 0 10
+Sc 30 8
+Ts 37.5 10
+Ibp 95 8
+Rd 40 8
+Spf 100 10
+Lla 0 12
+Apuo 55 8
+Bc 50 8
+
+5/21 147
+Bp 125 8
+R 75 8
+Be 70 10
+Lp 235 8
+Lpc 130 10
+
+5/22 148.5
+Rc 0 5
+Bp 125 8
+Lp 240 8
+R 80 8
+Spf 100 8
+Rd 40 8
+Sc 30 8
+Ts 37.5 10
+Isu 0 10
+Lla 0 12
+Le 60 8
+Lc 75 8
+Bc 50 8
+Ssp 25 10
